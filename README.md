@@ -1,1 +1,1 @@
-# [taxidermia-fdx](mdl.fdx)
+# [taxidermia-fdx](mdl.fbx)
